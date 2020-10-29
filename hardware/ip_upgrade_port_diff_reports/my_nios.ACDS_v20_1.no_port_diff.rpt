@@ -1,0 +1,23 @@
+IP Ports Diff Report for my_nios
+Mon Aug 31 14:58:23 2020
+Quartus Prime Version 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. IP Information
+
+
+
++----------------------------------------------------+
+; IP Information                                     ;
++----------------------+-----------------------------+
+; IP Variation Name    ; my_nios                     ;
+; Prior Version        ; ACDS_v18.0                  ;
+; New Version          ; ACDS_v20.1                  ;
+; New File             ; my_nios/synthesis/my_nios.v ;
+; Has Port Differences ; No                          ;
++----------------------+-----------------------------+
+
+
